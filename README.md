@@ -6,7 +6,7 @@ A revolutionary Java interpreter designed for embedded systems and browser execu
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-## 🚀 Live Demo
+## 
 
 Experience JavaRT in action with our interactive web interface featuring:
 - Real-time Java code execution
