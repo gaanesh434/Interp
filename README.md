@@ -77,14 +77,11 @@ To start the development server:
 npm run dev
 ```
 
-This will open the application in your browser, usually at `http://localhost:5173`.
-
 ## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -98,7 +95,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Your Name - [Your Email Here]
+Your Name - kkleelaganesh@gmail.com
 Project Link: [https://github.com/gaanesh434/final-int](https://github.com/gaanesh434/final-int)
 
 ---
