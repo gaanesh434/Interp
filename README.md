@@ -96,7 +96,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Contact
 
 Your Name - kkleelaganesh@gmail.com
-Project Link: [https://github.com/gaanesh434/final-int](https://github.com/gaanesh434/final-int)
+Project Link: [https://github.com/gaanesh434/final-int](https://github.com/gaanesh434/final-int.git)
 
 ---
 
